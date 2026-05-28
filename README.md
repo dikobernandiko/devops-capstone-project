@@ -1,5 +1,7 @@
 # devops-capstone-project
 
+![Build Status](https://github.com/dikobernandiko/devops-capstone-project/actions/workflows/ci-build.yaml/badge.svg)
+
 This repository contains the capstone project for the **IBM DevOps and Software Engineering Professional Certificate** on Coursera. The primary goal of this project is to develop, test, secure, and deploy a fully functional, cloud-native **Customer Accounts Microservice** using modern DevOps practices and tools.
 
 ## Project Overview
